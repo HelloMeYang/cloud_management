@@ -1,0 +1,16 @@
+a:hover {
+    text-decoration: none;
+}
+.btn:focus,
+.btn:active:focus,
+.btn.active:focus,
+.btn.focus,
+.btn:active.focus,
+.btn.active.focus {
+    outline: none;
+    box-shadow:none;
+}
+
+box {
+    width: 750px;
+}
